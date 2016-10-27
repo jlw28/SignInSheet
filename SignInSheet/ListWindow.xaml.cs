@@ -38,15 +38,23 @@ namespace SignInSheet
         //Gets all sheet titles and displays them in the listview
         private void Get_Sheet_Names()
         {
-            Mongo db = new Mongo();
-            List<BsonDocument> titles = db.get_titles();
-
-
-            foreach(BsonDocument doc in titles)
+            try
             {
-                //able to have hidden value added for id?    
-                listBox.Items.Add(doc.GetElement("title").Value);
+                Mongo db = new Mongo();
+                List<BsonDocument> titles = db.get_titles();
+
+
+                foreach (BsonDocument doc in titles)
+                {
+                    //able to have hidden value added for id?    
+                    listBox.Items.Add(doc.GetElement("title").Value);
+                }
+
+            }catch(NullReferenceException e)
+            {
+                return;
             }
+
         }
 
         //Queries for collection based on title, then moves to NewWindow

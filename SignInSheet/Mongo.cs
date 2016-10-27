@@ -20,6 +20,7 @@ namespace SignInSheet
             
             _client = new MongoClient("mongodb://localhost");
             _database = _client.GetDatabase("Mongo");
+            //_database.RunCommandAsync((Command<BsonDocument>)"{ping:1}").Wait();
         }
 
         //Queries for titles and id for each collection

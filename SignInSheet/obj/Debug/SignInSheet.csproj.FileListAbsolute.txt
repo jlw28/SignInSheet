@@ -21,3 +21,37 @@ C:\Users\Jamie\documents\visual studio 2015\Projects\SignInSheet\SignInSheet\obj
 C:\Users\Jamie\documents\visual studio 2015\Projects\SignInSheet\SignInSheet\obj\Debug\SignInSheet.exe
 C:\Users\Jamie\documents\visual studio 2015\Projects\SignInSheet\SignInSheet\obj\Debug\SignInSheet.pdb
 C:\Users\Jamie\documents\visual studio 2015\Projects\SignInSheet\SignInSheet\obj\Debug\SignInSheet.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\SignInSheet.exe.config
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\SignInSheet.exe
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\SignInSheet.pdb
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\SignInSheet.exe
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\SignInSheet.pdb
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\MongoDB.Bson.dll
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\MongoDB.Driver.dll
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\MongoDB.Bson.xml
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\MongoDB.Driver.xml
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\SignInSheet.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\ListWindow.g.cs
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\MainWindow.g.cs
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\NewWindow.g.cs
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\App.g.cs
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\SignInSheet_MarkupCompile.cache
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\SignInSheet_MarkupCompile.lref
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\ListWindow.baml
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\MainWindow.baml
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\NewWindow.baml
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\SignInSheet.g.resources
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\SignInSheet.Properties.Resources.resources
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\SignInSheet.csproj.GenerateResource.Cache
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\Menu\ListMenu.g.cs
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\Menu\MainMenu.g.cs
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\Menu\NewSheet.g.cs
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\Menu\ListMenu.baml
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\Menu\MainMenu.baml
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\Menu\NewSheet.baml
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\MahApps.Metro.dll
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\MahApps.Metro.pdb
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\bin\Debug\MahApps.Metro.xml
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\App.baml

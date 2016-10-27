@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="New" Height="511.709" Width="916.456">
     <Grid Background="#FF9F9F9F" RenderTransformOrigin="0.149,0.467">
-        <TextBox x:Name="textBox_Title" HorizontalAlignment="Left" Height="45" Margin="359,29,0,0" TextWrapping="Wrap" Text="Enter Title Here" VerticalAlignment="Top" Width="200" FontSize="24" TextAlignment="Center" Background="#FF9F9F9F"/>
+        <TextBox x:Name="textBox_Title" HorizontalAlignment="Left" Height="45" Margin="244,29,0,0" TextWrapping="Wrap" Text="Enter Title Here" VerticalAlignment="Top" Width="456" FontSize="24" TextAlignment="Center" Background="#FF9F9F9F"/>
         <Button x:Name="btn_Save" Content="Save" HorizontalAlignment="Left" Margin="711,433,0,0" VerticalAlignment="Top" Width="117" Height="27" FontSize="20" Background="#FF4DD153" Click="btn_Save_Click"/>
         <Button x:Name="btn_Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="115,433,0,0" VerticalAlignment="Top" Width="117" Height="27" FontSize="20" Background="#FFDD4D4D" Click="btn_Cancel_Click"/>
         <Grid HorizontalAlignment="Left" Height="308" Margin="115,90,0,0" VerticalAlignment="Top" Width="700">

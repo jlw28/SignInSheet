@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Jamie\Documents\Visual Studio 2015\Projects\SignInSheet\SignInSheet\obj\Debug\
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\obj\Debug\
 SignInSheet
 none
 false
 DEBUG;TRACE
-C:\Users\Jamie\Documents\Visual Studio 2015\Projects\SignInSheet\SignInSheet\App.xaml
-3451316881
+C:\Users\Jamie\Documents\GitHub\SignInSheet\SignInSheet\App.xaml
+6-174979149
 
-9487323035
-161523496361
-ListWindow.xaml;MainWindow.xaml;NewWindow.xaml;
+14-369931893
+18-1155953594
+ListWindow.xaml;MainWindow.xaml;Menu\ListMenu.xaml;Menu\MainMenu.xaml;Menu\NewSheet.xaml;NewWindow.xaml;
 
 False
 
